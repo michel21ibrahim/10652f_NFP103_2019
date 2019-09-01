@@ -1,0 +1,15 @@
+bonjour Dr, 
+
+pour utiliser cette application il faut :
+
+1- lancer la classe server_lunch .
+2- lancer la classe createclient . 
+	a-	une fois CreateClient est lancée tu ecrit dans la console localhost 
+	b- une frame apparait lorsque vous tapez localhost and enter
+	c- dans la frame pour se connecter il faut ecrire la commande _connect 
+	d- apres tout est ecrit dans la frame .
+3- A chaque fois q'on cree un client il faut faire cette etape (2)
+4- Cote server c'est sur console . 
+	a- 	quand tu cree deux utilisateur tu poura ecrires les commandes "_Kill" , "_who" .. et tu peux rien ne faire tout en attapant sur la console a cote de la phrase un ENTER.
+
+P.S : il ya la partie envoyer des fille mais ne marche pas encore il y a une erreur je ne puisse pas recupere le file deja choisir . pour le recreer dans un autre repertoire ( tu peux voir le code ).
